@@ -40,5 +40,3 @@ height=“wwwww”
 
 ;add something for develop
 ;edit this file on browser
-
-
