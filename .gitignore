@@ -20,6 +20,10 @@
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+# Visual Studio for Unity
+Assets/UnityVS.meta
+Assets/UnityVS/
+
 ### OSX ###
 .DS_Store
 .AppleDouble
